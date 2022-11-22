@@ -1,4 +1,6 @@
 🎨Color Guessing Game!🎨
 
-Juego de adivinanza de rgb donde el usuario puede elegir el nivel de dificultad y reiniciar el juego.
-Codeado con HTML,CSS,JS.
+📌Juego de adivinanza de rgb.
+📌El usuario puede elegir el nivel de dificultad y reiniciar el juego.
+📌Lenguaje utilizado: HTML,CSS,JS.
+📌Responsive.
